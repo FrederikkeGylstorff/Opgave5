@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Opgave5/1.0.0": {
+        "dependencies": {
+          "Opgave1": "1.0.0"
+        },
+        "runtime": {
+          "Opgave5.dll": {}
+        }
+      },
+      "Opgave1/1.0.0": {
+        "runtime": {
+          "Opgave1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opgave5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Opgave1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
